@@ -1,8 +1,8 @@
 {
   "name": "nativescript-danem-videorecord",
   "version": "1.0.0",
-  "description": "A NativeScript Goole maps.",
-  "main": "index",
+  "description": "A NativeScript Video record.",
+  "main": "videorecorder",
   "typings": "index.d.ts",
   "nativescript": {
     "platforms": {
