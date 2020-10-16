@@ -1,6 +1,6 @@
 {
   "name": "nativescript-danem-videorecord",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NativeScript Video record.",
   "main": "videorecorder",
   "typings": "index.d.ts",
